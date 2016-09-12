@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="nombre">Nombre completo</string>
+    <string name="telefono">Telefono</string>
+    <string name="email">Email</string>
+    <string name="descripcion">Descripción Contacto</string>
+    <string name="mensaje">Campos vacios</string>
+    <string name="cnombre">nombre</string>
+    <string name="ctelefono">telefono</string>
+    <string name="cemail">email</string>
+    <string name="cdescripcion">descripcion</string>
+    <string name="cfecha">fecha</string>
+</resources>
