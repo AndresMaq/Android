@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mascotas</string>
+    <string name="nombre">nombre</string>
+    <string name="raiting">raiting</string>
+    <string name="mensaje">Favorito ;)!</string>
+    <string name="texto_accion">Accion</string>
+</resources>
